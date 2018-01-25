@@ -1,1 +1,1 @@
-# mosquitto-docker
+Latest Eclipse Mosquitto MQTT Docker image
